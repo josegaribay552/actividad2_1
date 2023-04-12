@@ -1,0 +1,16 @@
+diff --git a/README.md b/TEST_README_Jose_Garibay.md
+similarity index 81%
+rename from README.md
+rename to TEST_README_Jose_Garibay.md
+index 9ce21a5..853822a 100644
+--- a/README.md
++++ b/TEST_README_Jose_Garibay.md
+@@ -7,4 +7,6 @@ all.
+ 
+ Copyright 1993,1998,2014 Toyoda Masashi (mtoyoda@acm.org)
+ 
+-![](demo.gif)
+\ No newline at end of file
++si llegaste aqui es por que applicaste un patch 
++
++![](demo.gif)
