@@ -7,14 +7,9 @@
 #==========================================
 
 CC=gcc
-CFLAGS=-O -Wall
 
-all: sl
+CFLAGS=-O
 
 sl: sl.c sl.h
 	$(CC) $(CFLAGS) -o sl sl.c -lncurses
 
-clean:
-	rm -f sl
-
-distclean: clean
